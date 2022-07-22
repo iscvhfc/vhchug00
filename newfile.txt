@@ -3,3 +3,5 @@ Esto es un texto desde rama temporal
 esto es el segundo cambio desde temporal
 Este cambio es de la rama master - temporal
  git merge master -m <- ojo mensaje 
+___________________________________________
+ esta es un update de la rama temporal sin pasar por la rama master 
