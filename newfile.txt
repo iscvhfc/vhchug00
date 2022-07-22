@@ -1,3 +1,5 @@
 contenido de el archivo newfile.txt
 Esto es un texto desde rama temporal
 esto es el segundo cambio desde temporal
+Este cambio es de la rama master - temporal
+ git merge master -m <- ojo mensaje 
