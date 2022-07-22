@@ -1,1 +1,3 @@
 contenido de el archivo newfile.txt
+Esto es un texto desde rama temporal
+esto es el segundo cambio desde temporal
